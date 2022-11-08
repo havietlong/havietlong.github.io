@@ -1,5 +1,6 @@
 * {
   padding: 0%;
+  overflow-x: hidden;
 }
 
 .title {
@@ -77,6 +78,11 @@ p {
   text-align: justify;
   color: #FFFFFF;
   background-color: #008888;
+}
+
+.title5 {
+  text-align: center;
+  color: #008888;
 }
 
 .chem {
