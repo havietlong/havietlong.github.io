@@ -1,109 +1,32 @@
-* {
-  padding: 0%;
-  overflow-x: hidden;
-}
-
-.title {
+h1 {
   text-align: center;
-}
-
-.yeucau {
-  text-decoration: underline;
+  font-weight: bold;
+  background-color: antiquewhite;
+  padding-top: 5vh;
 }
 
 p {
-  font-weight: bold;
-}
-
-.body1 {
-  text-align: center;
-}
-
-.title2 {
-  text-align: center;
-  color: #006600;
-}
-
-.yeucau2 {
-  text-decoration: underline;
-  color: #0000FF;
-}
-
-.body2 {
-  background-color: #FFFFCC;
-  text-align: center;
-}
-
-.pink {
-  background-color: #FECFFD;
-  color: #FF3399;
-  margin-bottom: 3vh;
-  text-align: center;
-}
-
-.title3 {
-  color: #FFCC00;
-  text-align: center;
-}
-
-.baiBa {
-  background-image: url(https://www.worldatlas.com/r/w1200/upload/be/cb/99/great-wall-of-china.jpg);
-  background-size: 30%;
-  background-repeat: no-repeat;
-  background-position-x: center;
-  background-position-y: 10vh;
-  background-color: #A06D21;
-}
-
-.baiBon {
-  background-image: url(https://p.kindpng.com/picc/s/272-2727439_a-simple-branch-with-berries-clip-arts-bush.png);
-}
-
-.title4 {
-  text-align: center;
-  color: #008888;
-}
-
-.body3 {
   text-align: justify;
-  color: #FFFFFF;
+  background-color: antiquewhite;
+  padding-left: 10vw;
+  padding-right: 10vw;
+  padding-bottom: 5vh;
 }
 
-.body4b {
-  text-align: justify;
-  color: #339999;
+* {
+  background-color: rgb(224, 98, 48);
+  padding: 0%;
+  margin: 0%;
 }
 
-.body4a {
-  text-align: justify;
-  color: #FFFFFF;
-  background-color: #008888;
-}
-
-.title5 {
-  text-align: center;
-  color: #008888;
-}
-
-.chem {
-  color: #FF0000;
-}
-
-.algo {
-  background-color: #CCCCCC;
-  color: #0000CC;
-  text-align: justify;
-  text-align: center;
-}
-.algo .body5a {
-  margin-bottom: 2.5vh;
-}
-.algo .body5b {
-  margin-bottom: 2.5vh;
+.mid {
+  max-width: 50rem;
+  background-color: antiquewhite;
   position: relative;
-  left: 5.3vw;
+  left: 15vw;
+  opacity: 70%;
 }
-.algo .body5c {
-  position: relative;
-  left: -3vw;
+
+body {
+  background-image: url(https://i.pinimg.com/736x/e5/12/62/e51262b243d703bf0037ee664ac0429a.jpg);
 }/*# sourceMappingURL=styles.css.map */
