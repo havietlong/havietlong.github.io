@@ -55,7 +55,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #2dc997;
+  background: #163047;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -69,7 +69,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #49d6a9;
+  background: #163047;
   color: #fff;
 }
 
@@ -474,8 +474,8 @@ h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #2dc997;
-  border: 2px solid #2dc997;
+  background: #163047;
+  border: 2px solid  #163047;
 }
 
 /*--------------------------------------------------------------
@@ -781,8 +781,8 @@ section {
 }
 
 #call-to-action .cta-btn:hover {
-  background: #2dc997;
-  border: 2px solid #2dc997;
+  background:  #163047;
+  border: 2px solid  #163047;
 }
 
 /* Portfolio Section
