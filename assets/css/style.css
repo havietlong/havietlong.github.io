@@ -755,6 +755,7 @@ section {
 
 #call-to-action .cta-text {
   color: #fff;
+  text-align: justify;
 }
 
 @media (min-width: 769px) {
